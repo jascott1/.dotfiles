@@ -1,0 +1,7 @@
+[user]
+    name = Justin Scott
+    email = justin.a.scott@intel.com
+[gitreview]
+    username = jascott1
+[core]
+    editor = /usr/bin/vim
